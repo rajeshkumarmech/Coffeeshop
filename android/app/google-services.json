@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "945177481322",
+    "project_id": "teashop-a28f0",
+    "storage_bucket": "teashop-a28f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945177481322:android:4cf6a68a14f1b5fe537a13",
+        "android_client_info": {
+          "package_name": "com.example.coffeestall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "945177481322-jtvg276rai8egr7c49qfaigk721hlnla.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.coffeestall",
+            "certificate_hash": "4e7666b3d7f7f9499880d94b4aaa5e2e0660420c"
+          }
+        },
+        {
+          "client_id": "945177481322-ruqkdoossa43borp35cae8hcd4hhjq5a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCD5ytr7DTpJX9Bygi5qocAM5xW29J0ppg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "945177481322-ruqkdoossa43borp35cae8hcd4hhjq5a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
